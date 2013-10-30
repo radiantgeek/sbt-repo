@@ -1,0 +1,4 @@
+mvn-'repository' for libraries.
+
+*anormacro* - utility classes for play-framework anorm library. Based on Scala Macros.
+check for more information: https://bitbucket.org/radiantgeek/anormacro

@@ -14,17 +14,17 @@
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>2.10.2</version>
+            <version>2.10.3</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play-jdbc_2.10</artifactId>
-            <version>2.2.0</version>
+            <version>2.2.2</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>anorm_2.10</artifactId>
-            <version>2.2.0</version>
+            <version>2.2.2</version>
         </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
@@ -33,7 +33,7 @@
         </dependency>
         <dependency>
             <groupId>org.scalamacros</groupId>
-            <artifactId>quasiquotes_2.10.2</artifactId>
+            <artifactId>quasiquotes_2.10.3</artifactId>
             <version>2.0.0-M3</version>
         </dependency>
         <dependency>
@@ -45,22 +45,16 @@
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play_2.10</artifactId>
-            <version>2.2.0</version>
+            <version>2.2.2</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play-test_2.10</artifactId>
-            <version>2.2.0</version>
+            <version>2.2.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
     <repositories>
-        <repository>
-            <id>sonatypeosssnapshots</id>
-            <name>sonatype-oss-snapshots</name>
-            <url>http://oss.sonatype.org/content/repositories/snapshots/</url>
-            <layout>default</layout>
-        </repository>
         <repository>
             <id>sonatypesnapshots</id>
             <name>sonatype-snapshots</name>

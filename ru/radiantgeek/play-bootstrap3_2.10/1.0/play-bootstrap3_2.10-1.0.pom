@@ -2,11 +2,11 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>ru.radiantgeek</groupId>
-    <artifactId>play-bootstrap-admin_2.10</artifactId>
+    <artifactId>play-bootstrap3_2.10</artifactId>
     <packaging>jar</packaging>
-    <description>play-bootstrap-admin</description>
+    <description>play-bootstrap3</description>
     <version>1.0</version>
-    <name>play-bootstrap-admin</name>
+    <name>play-bootstrap3</name>
     <organization>
         <name>ru.radiantgeek</name>
     </organization>
